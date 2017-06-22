@@ -1,0 +1,59 @@
+\begin{thebibliography}{10}
+
+\bibitem{IEC2015}
+IEC, {\em {CISPR 32:2015 Electromagnetic compatibility of multimedia equipment
+  - Emission requirements}}.
+\newblock 2015.
+
+\bibitem{JamesRAndrews2008}
+{James R Andrews}, ``{Picosecond Pulse Generation Techniques and Pulser
+  Capabilities},'' 2008.
+
+\bibitem{Miao2003}
+M.~Miao and C.~Nguyen, ``{A uniplanar picosecond impulse generator based on
+  MESFET and SRD},'' {\em Microwave and Optical Technology Letters}, vol.~39,
+  pp.~470--472, dec 2003.
+
+\bibitem{Zhou2015}
+J.~Zhou, X.~Yang, Q.~Lu, and F.~Liu, ``{A Novel Low-Ringing Monocycle
+  Picosecond Pulse Generator Based on Step Recovery Diode},'' {\em PLOS ONE},
+  vol.~10, p.~e0136287, aug 2015.
+
+\bibitem{Maxwell2008}
+E.~Maxwell, T.~Weller, and E.~Odu, ``{Design and Analysis of a Multiport
+  Circuit for Shaping Sub-Nanosecond Pulses},'' {\em IEEE Transactions on
+  Microwave Theory and Techniques}, vol.~56, pp.~2764--2770, dec 2008.
+
+\bibitem{15259}
+D.~Ribeiro, P.~M. Cruz, and N.~B.~C. Carvalho, ``{Evaluation of Comb Generator
+  Performance for Nonlinear Measurements on Mixed-Domain Instrumentation},'' in
+  {\em URSI Seminar of the Portuguese Committee}, vol.~1, pp.~1--4, nov 2012.
+
+\bibitem{Dau-Chyrh2013}
+C.~Dau-Chyrh, L.~Chih-Hung, and Y.~Tsung-Yuan, ``{Novel Design of Site Source
+  for Radiation and Conduction Emission Test},'' in {\em Progress in
+  Electromagnetics Research Symposium Proceedings}, (Taipei), pp.~1033--1035,
+  2013.
+
+\bibitem{Montrose1999}
+M.~I. Montrose and {IEEE Electromagnetic Compatibility Society.}, ``{EMC and
+  the printed circuit board : design, theory, and layout made simple},'' 1999.
+
+\bibitem{Ungvichian2006}
+V.~Ungvichian and R.~Aina, ``{A Study of Inexpensive Stable Conducted/Radiated
+  Emission Sources Suitable for the EMC Directives},'' in {\em 2006
+  International RF and Microwave Conference}, pp.~296--300, IEEE, sep 2006.
+
+\bibitem{Martin1988}
+L.~Martin, ``{A Simple Low-Cost Comb Generator Frequency Calibrator},''
+  pp.~78--82, 1988.
+
+\bibitem{Semiconductor2008}
+ON-Semiconductor, ``{MC10EP31, MC100EP31 - 3.3V/5V ECL D Flip-Flop with Set and
+  Reset},'' 2008.
+
+\bibitem{agilent_dso80000}
+Agilent, ``{Infiniium DSO80000B Series Oscilloscopes and InfiniiMax Series
+  Probes 2 GHz to 13 GHz Real-time Oscilloscope 80000B Series},'' p.~12, 2007.
+
+\end{thebibliography}
